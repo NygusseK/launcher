@@ -1,2 +1,2 @@
-nygussek|maciek123K|2025-12-31|false
+nygussek|maciek123K|2025-12-31|true
 test1|maciek123K|2025-07-01|true
