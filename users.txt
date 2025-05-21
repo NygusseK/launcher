@@ -1,2 +1,2 @@
-nygussek|haslotestowe|2025-12-31|false
+nygussek|haslo123|2025-12-31|false
 test|test123|2025-07-01|true
